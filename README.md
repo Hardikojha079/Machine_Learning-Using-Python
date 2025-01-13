@@ -1,2 +1,2 @@
-# MAchineLearning-Using-Python
-This repository provides Jupyter notebooks showcasing Python machine learning techniques, including supervised learning, unsupervised and reinforcement learning, offering practical experience with real-world datasets using libraries like scikit-learn.
+# MachineLearning-Using-Python
+This repository serves as a comprehensive resource featuring Jupyter notebooks that illustrate a wide array of machine learning techniques implemented in Python. It encompasses various supervised learning algorithms, such as Support Vector Machines with different kernels, K-Nearest Neighbors, Naive Bayes, Decision Trees, Random Forests, and logistic regression, as well as unsupervised learning methods including clustering. These examples are designed to offer practical, hands-on experience in applying these algorithms to real-world datasets, utilizing popular libraries like scikit-learn. 
